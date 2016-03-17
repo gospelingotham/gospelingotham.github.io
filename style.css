@@ -78,7 +78,7 @@ body {
   .content {
     width: 100%;
     font-size: 15px;
-    float: left;
+    text-align: center;
   }
 
   .sm-hide {
